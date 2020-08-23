@@ -1,0 +1,24 @@
+{
+    "name": "zloykolobok/megaplan_v3",
+    "description": "Package for working with megaplan via APIv3",
+    "type": "library",
+    "keywords": [
+        "megaplan",
+        "CRM"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Roman Nikolaenkov",
+            "email": "rnikolaenkov@yandex.ru"
+        }
+    ],
+    "require": {
+        "php" : ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Zloykolobok\\Megaplan_v3\\": "src/"
+        }
+    }
+}

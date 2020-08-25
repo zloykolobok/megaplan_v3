@@ -2,7 +2,7 @@
     "name": "zloykolobok/megaplan_v3",
     "description": "Package for working with megaplan via APIv3",
     "type": "library",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "keywords": [
         "megaplan",
         "CRM"

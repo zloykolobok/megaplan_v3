@@ -60,3 +60,8 @@ $res = $mega->send('api/v3/employee?' . $pagination);
 $data = ["contentType" => "Comment", "content" => 'Текст комментария'];
 $res = $mega->send('api/v3/deal/12/comments', 'POST', $data);
 ```
+## Автор
+- [Telegram](https://t.me/nikolaenkov_roman)
+- [VK](https://vk.com/rnikolaenkov)
+- [WhatsApp](https://wa.me/79787148554)
+- [Бложек](https://web-programming.com.ua/)

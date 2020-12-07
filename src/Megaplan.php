@@ -14,7 +14,7 @@ class Megaplan
     {
         $this->key = $key;
         $this->domain = $domain;
-        $this->header = ['content-type: multipart/form-data'];
+//        $this->header = ['content-type: multipart/form-data'];
     }
 
     public function send(string $action, string $method = 'GET', array $data = [], array $header = [])
